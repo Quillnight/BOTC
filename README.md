@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Quillnight/botc-releases/releases/latest"><b>Скачать последнюю версию</b></a>
+  <a href="https://github.com/Quillnight/BOTC/releases/latest"><b>Скачать последнюю версию</b></a>
   &nbsp;·&nbsp; <a href="#что-умеет">Что умеет</a>
   &nbsp;·&nbsp; <a href="#игра-по-сети">Игра&nbsp;по&nbsp;сети</a>
   &nbsp;·&nbsp; <a href="#установка">Установка</a>
@@ -116,7 +116,7 @@
 | Windows 10 и 11 | `BOTC_<версия>_windows_x64.zip` | WebView2 и .NET Framework 4.7.2 — обычно уже есть; без WebView2 приложение предложит поставить его само |
 | Linux x86-64 | `BOTC_<версия>_linux_x64.tar.gz` | Для своего окна — Chrome, Chromium, Edge, Brave или Vivaldi; без них подойдёт любой браузер. Python и cloudflared уже внутри |
 
-Оба архива — в [последнем выпуске](https://github.com/Quillnight/botc-releases/releases/latest). Для macOS и Linux на процессорах ARM сборки пока нет. Партии и настройки хранятся отдельно от папки программы, так что её можно заменить новой версией — ничего не пропадёт. Дальше приложение обновляется само.
+Оба архива — в [последнем выпуске](https://github.com/Quillnight/BOTC/releases/latest). Для macOS и Linux на процессорах ARM сборки пока нет. Партии и настройки хранятся отдельно от папки программы, так что её можно заменить новой версией — ничего не пропадёт. Дальше приложение обновляется само.
 
 ### Windows
 
@@ -175,7 +175,7 @@ sh BOTC/start.sh
 <details>
 <summary><b>Нашли ошибку</b></summary>
 <br>
-Опишите, что случилось, в <a href="https://github.com/Quillnight/botc-releases/issues">Issues</a>. Если приложение упало или не открылось, приложите файл <code>error.txt</code> или <code>window-error.txt</code> из папки данных, а если не встало обновление — <code>update/update.log</code>.
+Опишите, что случилось, в <a href="https://github.com/Quillnight/BOTC/issues">Issues</a>. Если приложение упало или не открылось, приложите файл <code>error.txt</code> или <code>window-error.txt</code> из папки данных, а если не встало обновление — <code>update/update.log</code>.
 </details>
 
 ---
