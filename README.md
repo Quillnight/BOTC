@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Помощник Рассказчика для Blood on the Clocktower — по-русски, для стола и для игры по сети</b>
+  <b>Помощник Рассказчика для Blood on the Clocktower — для стола и для игры по сети</b>
 </p>
 
 <p align="center">
