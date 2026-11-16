@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <sub>Windows&nbsp;10&nbsp;и&nbsp;11 &nbsp;·&nbsp; Linux &nbsp;·&nbsp; 38&nbsp;сценариев &nbsp;·&nbsp; 258&nbsp;ролей&nbsp;по&nbsp;русской&nbsp;вики &nbsp;·&nbsp; обновляется&nbsp;само</sub>
+  <sub>Windows&nbsp;10&nbsp;и&nbsp;11 &nbsp;·&nbsp; Linux &nbsp;·&nbsp; 38&nbsp;сценариев &nbsp;·&nbsp; 258&nbsp;ролей</sub>
 </p>
 
 <img src="docs/grimoire-v4.jpg" alt="Гримуар: вторая ночь Trouble Brewing, лист ночи крупно">
